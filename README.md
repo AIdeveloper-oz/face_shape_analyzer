@@ -18,5 +18,5 @@ This app uses Convolution Neural Networks to analyze and determine the shape of 
 
 # Test
 <p align="center">
-  <img width="" height="" src="https://github.com/VinitaSilaparasetty/face_shape_analyzer/blob/master/test.JPG?raw=true">
+  <img width="" height="" src="https://media.giphy.com/media/Xd270oOTrwL2sHyyrW/giphy.gif">
 </p>
