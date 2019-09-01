@@ -14,9 +14,17 @@ The human face can be broadly classified into 4 major types. Ofcourse there are 
 3.Oval
 4.Round 
 
-This app uses Convolution Neural Networks to analyze and determine the shape of a person's face.
+This app uses Convolution Neural Networks(CNNs) to analyze and determine the shape of a person's face.
 
 # Test
+By looking at this photo, you woulsay that the face shape is oval. This inference can change from person to person. Let's see what result the CNN gives us.
+
 <p align="center">
   <img width="" height="" src="https://media.giphy.com/media/Xd270oOTrwL2sHyyrW/giphy.gif">
 </p>
+
+#Result
+
+Generated output: Oval
+
+The CNN has analyzed the image and confirmed that it is an oval shaped face.
