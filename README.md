@@ -23,7 +23,7 @@ By looking at this photo, you woulsay that the face shape is oval. This inferenc
   <img width="" height="" src="https://media.giphy.com/media/Xd270oOTrwL2sHyyrW/giphy.gif">
 </p>
 
-#Result
+# Result
 
 Generated output: Oval
 
