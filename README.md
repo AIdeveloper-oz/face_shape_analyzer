@@ -1,7 +1,7 @@
 <div class="column">
     <img alt="GitHub" src="https://img.shields.io/badge/Tensorflow-2.0-blue.svg">
     <img alt="GitHub" src="https://img.shields.io/badge/Keras-2.2.5-blue.svg">
-    <img alt="GitHub" src="https://img.shields.io/badge/Lisence-GNU_Lessesr_General_Public_Lisence_v3.0-brightgreen.svg">
+    <img alt="GitHub" src="![Lisence GNU_Lessesr_General_Public_Lisence_v3.0](https://img.shields.io/badge/Lisence-GNU_Lessesr_General_Public_Lisence_v3.0-blue.svg)">
  
 
 # Face Shape Analyzer
@@ -31,6 +31,10 @@ By looking at this photo, you would say that the face shape is oval. This infere
 
 # Result
 
-Generated output: Oval
+<p align="center">
+  <img width="" height="" src="https://media.giphy.com/media/YrZtkE36z94imAxwjY/giphy.gif">
+</p>
+
+###### Generated output: Oval
 
 The CNN has analyzed the image and confirmed that it is an oval shaped face.
