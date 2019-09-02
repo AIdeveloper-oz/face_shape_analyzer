@@ -32,7 +32,7 @@ By looking at this photo, you would say that the face shape is oval. This infere
 # Result
 
 <p align="center">
-  <img width="800" height="310" src="https://media.giphy.com/media/TIAHDR5np0G4iTvErr/giphy.gif">
+  <img width="700" height="400" src="https://media.giphy.com/media/TIAHDR5np0G4iTvErr/giphy.gif">
 </p>
 
 #### Generated output: Oval
