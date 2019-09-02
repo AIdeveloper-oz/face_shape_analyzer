@@ -35,6 +35,6 @@ By looking at this photo, you would say that the face shape is oval. This infere
   <img width="" height="" src="https://media.giphy.com/media/TIAHDR5np0G4iTvErr/giphy.gif">
 </p>
 
-###### Generated output: Oval
+#### Generated output: Oval
 
 The CNN has analyzed the image and confirmed that it is an oval shaped face.
