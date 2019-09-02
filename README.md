@@ -26,7 +26,7 @@ This app uses Convolution Neural Networks(CNNs) to analyze and determine the sha
 By looking at this photo, you would say that the face shape is oval. This inference can change from person to person. Let's see what result the CNN gives us.
 
 <p align="center">
-  <img width="150" height="300" src="https://media.giphy.com/media/Xd270oOTrwL2sHyyrW/giphy.gif">
+  <img width="200" height="300" src="https://media.giphy.com/media/Xd270oOTrwL2sHyyrW/giphy.gif">
 </p>
 
 # Result
