@@ -1,7 +1,7 @@
 <div class="column">
     <img alt="GitHub" src="https://img.shields.io/badge/Tensorflow-2.0-blue.svg">
     <img alt="GitHub" src="https://img.shields.io/badge/Keras-2.2.5-blue.svg">
-    <img alt="GitHub" src="https://img.shields.io/badge/Lisence-GNU_Lessesr_General_Public_Lisence_v3.0-blue.svg">
+    <img alt="GitHub" src="https://img.shields.io/badge/Licence-LGPL_v3.0-blue.svg">
  
 
 # Face Shape Analyzer
