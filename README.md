@@ -3,6 +3,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/Keras-2.2.5-blue.svg">
     <img alt="GitHub" src="https://img.shields.io/badge/Licence-LGPL_v3.0-blue.svg">
  
+For more projects like this, visit my portfolio: http://vinslookbook.com/
 
 # Face Shape Analyzer
 A mobile application that analyzes the face shape.
