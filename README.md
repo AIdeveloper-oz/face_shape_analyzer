@@ -99,8 +99,7 @@ To learn more about the dataset, visit the link below:
 https://github.com/prateekmehta59/Celebrity-Face-Recognition-Dataset
 
 
-<!-- wp:heading {"level":3} -->
-<h3>References:</h3>
+# References:
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
